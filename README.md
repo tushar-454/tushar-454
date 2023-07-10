@@ -1,12 +1,7 @@
-# Hey, My name is Tushar Imran.
+# Hi there 👋 I'm Tushar Imran
 
-- 👋 Hi, I’m @tushar-454
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Full Stack MERN Developer 😲
 
-<!---
-tushar-454/tushar-454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#📣 About Me
+Hello, I’m Tushar Imran, I'm a Full Stack Developer - my core skill is based on javaScript
+and I love to do most of the things with JavaScript.I am Skilled At MERN Stack.
