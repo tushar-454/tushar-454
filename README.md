@@ -7,4 +7,4 @@ Hello, I’m Tushar Imran, I'm a Full Stack Developer - my core skill is based o
 and I love to do most of the things with JavaScript.I am Skilled At MERN Stack.
 
 # 🌐Social
-[./assets/facebook.svg](https://www.facebook.com/profile.php?id=100009068730323)
+[![facebook](/assets/facebook.svg)](https://www.facebook.com/profile.php?id=100009068730323)
