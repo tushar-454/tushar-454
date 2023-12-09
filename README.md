@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Tushar+Imran;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;I+am+MERN+Stack+Developer+;)](https://git.io/typing-svg)
+<p align="center"><img src="https://raw.githubusercontent.com/tushar-454/tushar-454/main/assets/banner.png" /></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Tushar+Imran;+Welcome+to+My+Profile!;Over+1.5+years+of+programming+experience;Always+learning+new+things+;I+am+front-end+Developer+;)](https://git.io/typing-svg)
 
 ## 🚀 My Vision:
 
