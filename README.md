@@ -28,7 +28,7 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 
 ## GitHub Stars
 
-<p  align="center">![Tushar Github Stats](https://github-readme-stats.vercel.app/api?username=tushar-454&show_icons=true&theme=radical)</p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-454&show_icons=true&theme=radical" /></p>
 
 ## 📈 Current Status
 
