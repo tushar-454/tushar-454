@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/tushar-454/tushar-454/main/assets/banner.png" /></p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar Imran;+I'm front-end developer.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar+Imran;+I'm+front-end+developer.;" />
 </h1>
 
 ## 🚀 My Vision:
