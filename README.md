@@ -26,12 +26,11 @@
 
 ![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=tushar-454&show_icons=true&theme=radical)
 
-### Top Languages
+## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-454&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p  align="center"><img align="center" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-454&show_icons=true&locale=en&layout=compact" alt="muhammad-shahin" /></p>
 
-
-### GitHub Trophies
+## GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=tushar-454&theme=juicyfresh&no-bg=true" />
 
