@@ -36,7 +36,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=tushar-454&theme=juicyfresh&no-bg=true" />
 
 # 💻 Tech Stack:
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,git,github,firebase,vscode,postman,md)](https://skillicons.dev)</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,git,github,firebase,vscode,postman,md" />
+</p>
 
 
 
