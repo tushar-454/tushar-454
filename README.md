@@ -24,13 +24,13 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 
 🚀 Check out my repositories below to see some of my projects and contributions!
 
-## 📱 Contact With Me
+## 🌹 Contact
 
-<!-- <p align="left">
-<a href="https://linkedin.com/in/shahin-muhammad" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://fb.com/shahinmuhammad2" target="_blank"><img src="https://i.postimg.cc/7YTYp1VZ/facebook.png" width="50" /></a>
-<a href="mailto:muhammadshahin002@gmail.com" target="_blank"><img src="https://i.postimg.cc/3rqxSf2q/gmail.png" /></a>
-</p> -->
+<p align="left">
+<a href="https://www.linkedin.com/in/tushar454" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009068730323" target="_blank"><img src="https://raw.githubusercontent.com/tushar-454/tushar-454/main/assets/facebook.png" width="50" /></a>
+<a href="mailto:imtushar454@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tushar-454/tushar-454/main/assets/gmail.webp" width="50" /></a>
+</p>
 
 ## 💻 Tech Stack:
 
