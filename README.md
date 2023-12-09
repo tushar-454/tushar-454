@@ -40,22 +40,6 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,git,github,firebase,vscode,postman,md" />
 </p>
 
-## 🦾GitHub Activities
-
-<table border=0>
-<tr>
-<th>⭐GitHub Stars</th>
-<th>🎢Current Status</th>
-<th>🚩Top Languages</th>
-</tr>
-<tr>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-454&show_icons=true&theme=radical" /></td>
-<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-454&" alt="tushar-454" /></td>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-454&show_icons=true&locale=en&layout=compact" alt="muhammad-shahin" /></td>
-</tr>
-</table>
-
-<!--
 ## ⭐GitHub Stars
 
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-454&show_icons=true&theme=radical" /></p>
@@ -66,4 +50,4 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 
 ## 🚩Top Languages
 
-<p  align="center"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-454&show_icons=true&locale=en&layout=compact" alt="muhammad-shahin" /></p> -->
+<p  align="center"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-454&show_icons=true&locale=en&layout=compact" alt="muhammad-shahin" /></p>
