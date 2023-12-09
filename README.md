@@ -26,15 +26,15 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,git,github,firebase,vscode,postman,md" />
 </p>
 
-## GitHub Stars
+## ⭐GitHub Stars
 
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-454&show_icons=true&theme=radical" /></p>
 
-## 📈 Current Status
+## 🎢Current Status
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-454&" alt="tushar-454" /></p>
 
-## Top Languages
+## 🚩Top Languages
 
 <p  align="center"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-454&show_icons=true&locale=en&layout=compact" alt="muhammad-shahin" /></p>
 
