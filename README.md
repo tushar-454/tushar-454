@@ -46,7 +46,7 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 
 ## 🎢Current Status
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-454&" alt="tushar-454" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-454" alt="tushar-454" /></p>
 
 ## 🚩Top Languages
 
