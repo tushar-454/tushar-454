@@ -39,15 +39,18 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,nextjs,nodejs,express,mongodb,git,github,firebase,vscode,postman,md" />
 </p>
+<div align="center">
 
-## ⭐GitHub Stars
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-454&theme=dark" />
 
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-454&show_icons=true&theme=radical" /></p>
+</div>
 
-## 🎢Current Status
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-454&theme=dark" alt="tushar-454" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-454&" alt="tushar-454" /></p>
+<div align="center">
 
-## 🚩Top Languages
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-454&theme=dark" />
 
-<p  align="center"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-454&show_icons=true&locale=en&layout=compact" alt="muhammad-shahin" /></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-454&theme=dark" />
+
+</div>
