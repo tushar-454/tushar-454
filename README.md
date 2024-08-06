@@ -37,7 +37,11 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 ## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,vue,nextjs,nodejs,express,mongodb,git,github,firebase,vscode,postman,md" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,vue,nextjs" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,postman,md" />
 </p>
 <div align="center">
 
