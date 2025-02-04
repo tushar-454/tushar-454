@@ -26,13 +26,13 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 
 🚀 Check out my repositories below to see some of my projects and contributions!
 
-## 🌹 Contact
+## 🌹 Socials Link:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/tushar454" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009068730323" target="_blank"><img src="https://raw.githubusercontent.com/tushar-454/tushar-454/main/assets/facebook.png" width="50" /></a>
-<a href="mailto:imtushar454@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tushar-454/tushar-454/main/assets/gmail.webp" width="50" /></a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-imtushar454@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:imtushar454@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar454)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/100009068730323)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itushar941)
+<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]() -->
 
 ## 💻 Tech Stack:
 
@@ -56,5 +56,7 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-454&theme=dark" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-454&theme=dark" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-454&theme=high-contrast">
 
 </div>
