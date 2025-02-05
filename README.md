@@ -49,7 +49,7 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-454&theme=dark" alt="tushar-454" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=tushar-454&theme=dark" alt="GitHub Streak" /></p>
 
 <div align="center">
 
