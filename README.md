@@ -32,6 +32,7 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar454)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/100009068730323)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itushar941)
+
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]() -->
 
 ## 💻 Tech Stack:
@@ -39,9 +40,11 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,typescript,react,redux,vue,nextjs" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fortran" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,postman,md" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,sublime,postman,md,powershell,vim,vercel,vite" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=arch,windows,mint,debian,discord,notion" />
 </p>
 <div align="center">
 
