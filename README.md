@@ -1,4 +1,4 @@
-<a href="https://tushar-imran.vercel.app/" align="center"><img src="https://raw.githubusercontent.com/tushar-454/tushar-454/main/assets/main.png" /></a>
+<!-- <a href="https://tushar-imran.vercel.app/" align="center"><img src="https://raw.githubusercontent.com/tushar-454/tushar-454/main/assets/main.png" /></a> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar+Imran;+I'm+front-end+developer.;" />
@@ -10,11 +10,11 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 
 ## 🌱 Currently Learning:
 
-#### I’m currently learning **NextJS, TypeScript**, **Redux**
+#### I’m currently learning: **NextJS Advanced**
 
 ## 📣 About Me
 
-👋 Hey there! I'm Tushar Imran, a passionate front-end developer with 1.5+ years of hands-on experience crafting responsive and dynamic web applications.
+👋 Hey there! I'm Tushar Imran, a passionate front-end developer with 1 year of hands-on experience crafting responsive and dynamic web applications.
 
 💻 I specialize in JavaScript and have a solid command over modern frameworks like React.js, enabling me to build interactive and efficient user interfaces.
 
@@ -38,14 +38,22 @@ I'm on a journey to evolve into a full-stack developer, aiming to bridge the gap
 ## 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,typescript,react,redux,vue,nextjs" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fortran" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,redux,nextjs" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,sublime,postman,md,powershell,vim,vercel,vite" />
   <br />
+</p>
+
+## 🚀 Good to Go:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,sass" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fortran" />
+  <br />
   <img src="https://skillicons.dev/icons?i=arch,windows,mint,debian,discord,notion" />
 </p>
+
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-454&theme=dark" />
